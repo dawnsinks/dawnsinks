@@ -1,6 +1,9 @@
 ### Hi there 👋
 - 🌱 I’m currently learning in jingmen
 - 💬 Ask me about [blog](http://www.dawnsss.xyz)
+- ⚡ 欲买桂花同载酒，终不似，少年游
+- 👯 恰沐春风共同游，终只叹，木已舟
+- 🤔只恐双溪舴艋舟，载不动，许多愁
 <!--
 **breakingxiao/breakingxiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
