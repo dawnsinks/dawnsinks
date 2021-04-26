@@ -1,8 +1,10 @@
-# Hello,World!
+# AK YES!
 ----
 I'm a noob of Linux and a student.
 
 These are some introductions for me:
-- Favorite programming languages:C,Java,Python
+
+- Favorite programming languages:C++,C,Java
 - Code Editor: NeoVim(Linux),Jetbrains(Windows)
-- call me: [Blog](http://www.dawnsss.xyz)
+- Motto: Standing on the Shoulders of Giants
+- Call me: [Blog](http://dawnsinks.github.io)
