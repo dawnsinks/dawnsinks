@@ -1,7 +1,7 @@
 # AK YES!
 ----
-I'm a noob of Linux and a student.
-
+~~I'm a noob of Linux and a student.~~
+I'm a noob of algorithm and a student.
 These are some introductions for me:
 
 - Favorite programming languages:C++,C,Java
