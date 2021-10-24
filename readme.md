@@ -1,6 +1,6 @@
 # AK YES!
 ----
-I'm a noob of algorithm and a student.
+I'm a student.
 
 These are some introductions for me:
 
