@@ -5,7 +5,7 @@
 - Major in software engineering.
 - Love open source and GNU/Linux(Linux User).
 - Always hungry for programming and new technology.
-- Favorite programming languages:C++, Java, C
+- Favorite programming languages:Go, C++, Java, C
 - Code Editor: NeoVim(Linux),Jetbrains(Windows)
 - Motto: Someone is condescending, I want to fight!
 - Call me: [Blog](http://dawnsinky.github.io)
