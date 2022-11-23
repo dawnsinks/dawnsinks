@@ -7,8 +7,7 @@
 - Always hungry for programming and new technology.
 - Favorite programming languages:Go, C++, Java, C
 - Code Editor: NeoVim(Linux),Jetbrains(Windows)
-- Motto: Someone is condescending, I want to fight!
-- Call me: [Blog](http://dawnsinky.github.io)
+- Motto: Stood on the shoulder of giants.
 
 ## More about my coding life
 <br>
