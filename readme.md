@@ -7,7 +7,6 @@
 - Always hungry for programming and new technology.
 - Favorite programming languages:Go, C++, Java, C
 - Code Editor: NeoVim(Linux),Jetbrains(Windows)
-- Motto: Stood on the shoulder of giants.
 
 ## More about my coding life
 <br>
